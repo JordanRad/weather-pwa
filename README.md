@@ -1,1 +1,1 @@
-# weather-pwa
+# Weather PWA
