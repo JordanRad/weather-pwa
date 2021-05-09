@@ -6,8 +6,7 @@ This is my first progressive web app. It is downloadable, has its own icon and a
 You can see the deploued version [**here**](https://happy-torvalds-a40c10.netlify.app/)
 
 ## Stable version
-![photo](https://github.com/JordanRad/weather-pwa/blob/main/public/screenshot.png)
-
+<img src="https://github.com/JordanRad/weather-pwa/blob/main/public/screenshot.png" alt="drawing" width="400"/>
 
 ## Instructions to set-up the project locally:
 
