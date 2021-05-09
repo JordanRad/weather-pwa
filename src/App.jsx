@@ -15,7 +15,14 @@ const App = () => {
     }
     return (
         <div className="main-container">
+<<<<<<< HEAD
             <input type='text' className='search' placeholder="Search..." value={input} onChange={(e) => setInput(e.target.value)} onKeyPress={search} />
+=======
+            
+            <input type='text' className='search' placeholder="Search..." value={input} onChange={(e) => setInput(e.target.value)} onKeyPress={search} />
+            <div className="description"><i>Type city name and press Enter</i></div>
+            
+>>>>>>> master
             {weather.main && (
                 <div className='city'>
                     <h2 className="city-name">
